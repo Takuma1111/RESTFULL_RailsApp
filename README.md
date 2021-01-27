@@ -20,3 +20,5 @@
 　・情報の操作(取得・作成・更新・削除)はすべてHTTPメソッド（GET・POST・PUT・DELETE）を利用すること
  
  
+# Memo 
+- app/modelsでhas_manyを設定することによってSQLでいう外部キーの設定を行うことができる
